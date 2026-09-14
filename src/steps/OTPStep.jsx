@@ -202,6 +202,7 @@ function OTPStep() {
             >
               GO BACK
             </button>
+            <p className="demo-otp">use demo OTP : 123456</p>
           </form>
         </div>
       </div>
