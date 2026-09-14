@@ -1645,7 +1645,12 @@ body::after {
 
   margin-top: 12px;
 }
-
+.demo-otp{
+  text-align: center;
+  font-size: 13px;
+  color:var(--muted);
+  margin-top: 10px;
+}
 .demo-hint {
   display: none;
 }
